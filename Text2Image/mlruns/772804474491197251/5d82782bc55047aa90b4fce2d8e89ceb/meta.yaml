@@ -1,0 +1,14 @@
+artifact_uri: file:///A:/DEPI_GenAI_Project/mlruns/772804474491197251/5d82782bc55047aa90b4fce2d8e89ceb/artifacts
+end_time: 1764236034662
+entry_point_name: ''
+experiment_id: '772804474491197251'
+lifecycle_stage: active
+run_id: 5d82782bc55047aa90b4fce2d8e89ceb
+run_name: RTX3090_Finetuning_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764236034570
+status: 3
+tags: []
+user_id: PC
